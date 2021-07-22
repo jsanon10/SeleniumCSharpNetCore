@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "coverlet.collector/3.0.3": {
+      "coverlet.collector/3.1.0": {
         "type": "package",
         "build": {
           "build/netstandard1.0/coverlet.collector.targets": {}
@@ -406,7 +406,7 @@
           "lib/netstandard2.0/WebDriver.dll": {}
         }
       },
-      "Selenium.WebDriver.ChromeDriver/91.0.4472.10100": {
+      "Selenium.WebDriver.ChromeDriver/92.0.4515.4300": {
         "type": "package",
         "build": {
           "build/Selenium.WebDriver.ChromeDriver.targets": {}
@@ -996,10 +996,10 @@
     }
   },
   "libraries": {
-    "coverlet.collector/3.0.3": {
-      "sha512": "PdyhdzG2LK7YUEtccObPql+3OuFODaFNeYayxdPoK1eHb2StZoeQf1WMb16QrKiIdi4fs5Kog8jxXtlZOgAEuA==",
+    "coverlet.collector/3.1.0": {
+      "sha512": "YzYqSRrjoP5lULBhTDcTOjuM4IDPPi6PhFsl4w8EI4WdZhE6llt7E38Tg4CHyrS+QKwyu1+9OwkdDgluOdoBTw==",
       "type": "package",
-      "path": "coverlet.collector/3.0.3",
+      "path": "coverlet.collector/3.1.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1043,7 +1043,7 @@
         "build/netstandard1.0/coverlet.core.dll",
         "build/netstandard1.0/coverlet.core.pdb",
         "coverlet-icon.png",
-        "coverlet.collector.3.0.3.nupkg.sha512",
+        "coverlet.collector.3.1.0.nupkg.sha512",
         "coverlet.collector.nuspec"
       ]
     },
@@ -1947,10 +1947,10 @@
         "selenium.webdriver.nuspec"
       ]
     },
-    "Selenium.WebDriver.ChromeDriver/91.0.4472.10100": {
-      "sha512": "RalhItuJ6BZdD9HHVUHdpgDP/NQAUrr1yEAHWet+Ww33wbcuei0A2sF4+9duKaLQuZO3lcid7pKe2+km3sOGBQ==",
+    "Selenium.WebDriver.ChromeDriver/92.0.4515.4300": {
+      "sha512": "pQz29fVN4LvfhhMj97/sUOqlSGexbReaMb9HvfV2KPz1PeFR2wUvokM0rVsHGq5Jx/0yDnx0eVKac3Fl2t1iig==",
       "type": "package",
-      "path": "selenium.webdriver.chromedriver/91.0.4472.10100",
+      "path": "selenium.webdriver.chromedriver/92.0.4515.4300",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1961,7 +1961,7 @@
         "driver/mac64/chromedriver",
         "driver/win32/chromedriver.exe",
         "nupkg-icon.png",
-        "selenium.webdriver.chromedriver.91.0.4472.10100.nupkg.sha512",
+        "selenium.webdriver.chromedriver.92.0.4515.4300.nupkg.sha512",
         "selenium.webdriver.chromedriver.nuspec"
       ]
     },
@@ -4247,8 +4247,8 @@
       "NUnit >= 3.13.2",
       "NUnit3TestAdapter >= 4.0.0",
       "Selenium.WebDriver >= 3.141.0",
-      "Selenium.WebDriver.ChromeDriver >= 91.0.4472.10100",
-      "coverlet.collector >= 3.0.3"
+      "Selenium.WebDriver.ChromeDriver >= 92.0.4515.4300",
+      "coverlet.collector >= 3.1.0"
     ]
   },
   "packageFolders": {
@@ -4318,13 +4318,13 @@
           },
           "Selenium.WebDriver.ChromeDriver": {
             "target": "Package",
-            "version": "[91.0.4472.10100, )"
+            "version": "[92.0.4515.4300, )"
           },
           "coverlet.collector": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[3.0.3, )"
+            "version": "[3.1.0, )"
           }
         },
         "imports": [

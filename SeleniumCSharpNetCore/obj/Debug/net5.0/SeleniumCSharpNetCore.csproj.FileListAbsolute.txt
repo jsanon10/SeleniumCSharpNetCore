@@ -89,6 +89,7 @@ C:\Users\jjlas\GitHub\SeleniumCSharpNetCoreCloned\SeleniumCSharpNetCore\bin\Debu
 C:\Users\jjlas\GitHub\SeleniumCSharpNetCoreCloned\SeleniumCSharpNetCore\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\jjlas\GitHub\SeleniumCSharpNetCoreCloned\SeleniumCSharpNetCore\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\jjlas\GitHub\SeleniumCSharpNetCoreCloned\SeleniumCSharpNetCore\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jjlas\GitHub\SeleniumCSharpNetCoreCloned\SeleniumCSharpNetCore\obj\Debug\net5.0\SeleniumCSharpNetCore.csproj.AssemblyReference.cache
 C:\Users\jjlas\GitHub\SeleniumCSharpNetCoreCloned\SeleniumCSharpNetCore\obj\Debug\net5.0\SeleniumCSharpNetCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jjlas\GitHub\SeleniumCSharpNetCoreCloned\SeleniumCSharpNetCore\obj\Debug\net5.0\SeleniumCSharpNetCore.AssemblyInfoInputs.cache
 C:\Users\jjlas\GitHub\SeleniumCSharpNetCoreCloned\SeleniumCSharpNetCore\obj\Debug\net5.0\SeleniumCSharpNetCore.AssemblyInfo.cs

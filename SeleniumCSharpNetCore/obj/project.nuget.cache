@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PnZLGBLNt6cSGDCcy2ewRGKEQG0effWGvXVADZao6i1tJT0CcQFO55J3S53pVCw93Wtg4NJ2uW9IhnaFwpzFSQ==",
+  "dgSpecHash": "M5XTnjUc/ExeKncNU358m0yg4H32jvgjYFm+X0fk5TSq1I8EdCYbQWez1pvbdOK6/ewvq2JPMCjbvKuTwjNMoA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jjlas\\GitHub\\SeleniumCSharpNetCoreCloned\\SeleniumCSharpNetCore\\SeleniumCSharpNetCore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jjlas\\.nuget\\packages\\coverlet.collector\\3.0.3\\coverlet.collector.3.0.3.nupkg.sha512",
+    "C:\\Users\\jjlas\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\jjlas\\.nuget\\packages\\microsoft.codecoverage\\16.10.0\\microsoft.codecoverage.16.10.0.nupkg.sha512",
     "C:\\Users\\jjlas\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\jjlas\\.nuget\\packages\\microsoft.net.test.sdk\\16.10.0\\microsoft.net.test.sdk.16.10.0.nupkg.sha512",
@@ -18,7 +18,7 @@
     "C:\\Users\\jjlas\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
     "C:\\Users\\jjlas\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512",
     "C:\\Users\\jjlas\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
-    "C:\\Users\\jjlas\\.nuget\\packages\\selenium.webdriver.chromedriver\\91.0.4472.10100\\selenium.webdriver.chromedriver.91.0.4472.10100.nupkg.sha512",
+    "C:\\Users\\jjlas\\.nuget\\packages\\selenium.webdriver.chromedriver\\92.0.4515.4300\\selenium.webdriver.chromedriver.92.0.4515.4300.nupkg.sha512",
     "C:\\Users\\jjlas\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\jjlas\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
     "C:\\Users\\jjlas\\.nuget\\packages\\system.collections.specialized\\4.3.0\\system.collections.specialized.4.3.0.nupkg.sha512",
