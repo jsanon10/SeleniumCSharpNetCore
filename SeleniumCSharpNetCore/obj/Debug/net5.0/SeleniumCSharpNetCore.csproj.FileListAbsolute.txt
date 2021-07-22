@@ -99,3 +99,6 @@ C:\Users\jjlas\GitHub\SeleniumCSharpNetCoreCloned\SeleniumCSharpNetCore\obj\Debu
 C:\Users\jjlas\GitHub\SeleniumCSharpNetCoreCloned\SeleniumCSharpNetCore\obj\Debug\net5.0\ref\SeleniumCSharpNetCore.dll
 C:\Users\jjlas\GitHub\SeleniumCSharpNetCoreCloned\SeleniumCSharpNetCore\obj\Debug\net5.0\SeleniumCSharpNetCore.pdb
 C:\Users\jjlas\GitHub\SeleniumCSharpNetCoreCloned\SeleniumCSharpNetCore\obj\Debug\net5.0\SeleniumCSharpNetCore.genruntimeconfig.cache
+C:\Users\jjlas\GitHub\SeleniumCSharpNetCoreCloned\SeleniumCSharpNetCore\bin\Debug\net5.0\AngleSharp.dll
+C:\Users\jjlas\GitHub\SeleniumCSharpNetCoreCloned\SeleniumCSharpNetCore\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\jjlas\GitHub\SeleniumCSharpNetCoreCloned\SeleniumCSharpNetCore\bin\Debug\net5.0\WebDriverManager.dll
