@@ -20,10 +20,5 @@ namespace SeleniumCSharpNetCore
 
         }
 
-
-
-
-
-
     }
 }
