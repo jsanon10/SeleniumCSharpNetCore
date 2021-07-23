@@ -23,6 +23,7 @@ jobs:
     # You may pin to the exact commit or the version.
     # uses: browser-actions/setup-chrome@4fa655aad48f56911cad16db9252399a9e592848
       uses: browser-actions/setup-chrome@latest
+    - run: chrome --92.0.4515.43
     - name: setup-chromedriver
       # You may pin to the exact commit or the version.
       # uses: nanasess/setup-chromedriver@835cae695490330a7e390033b2b5bd67e6f8055e
