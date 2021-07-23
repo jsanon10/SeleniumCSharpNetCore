@@ -19,8 +19,8 @@ jobs:
         dotnet-version: 5.0.x
     - name: Setup Chrome
       # You may pin to the exact commit or the version.
-      # uses: browser-actions/setup-chrome@4fa655aad48f56911cad16db9252399a9e592848
-      uses: browser-actions/setup-chrome@latest
+      uses: browser-actions/setup-chrome@4fa655aad48f56911cad16db9252399a9e592848
+      # uses: browser-actions/setup-chrome@latest
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
