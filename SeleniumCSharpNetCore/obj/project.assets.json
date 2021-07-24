@@ -426,6 +426,18 @@
           "build/netcoreapp2.1/NUnit3TestAdapter.props": {}
         }
       },
+      "Selenium.Support/3.141.0": {
+        "type": "package",
+        "dependencies": {
+          "Selenium.WebDriver": "3.141.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/WebDriver.Support.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/WebDriver.Support.dll": {}
+        }
+      },
       "Selenium.WebDriver/3.141.0": {
         "type": "package",
         "dependencies": {
@@ -1099,7 +1111,7 @@
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
       },
-      "WebDriverManager/2.11.2": {
+      "WebDriverManager/2.11.3": {
         "type": "package",
         "dependencies": {
           "AngleSharp": "0.16.0",
@@ -2113,6 +2125,25 @@
         "build/netcoreapp2.1/testcentric.engine.metadata.dll",
         "nunit3testadapter.4.0.0.nupkg.sha512",
         "nunit3testadapter.nuspec"
+      ]
+    },
+    "Selenium.Support/3.141.0": {
+      "sha512": "F4sxMCXGyqWtbw5qsniJRgza2UsBnslHwFgNA2p7hPxvJhqg73lyXu/ZscJ7FSfRvq3eJrosysv92+4sZ3vWsg==",
+      "type": "package",
+      "path": "selenium.support/3.141.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/WebDriver.Support.dll",
+        "lib/net35/WebDriver.Support.xml",
+        "lib/net40/WebDriver.Support.dll",
+        "lib/net40/WebDriver.Support.xml",
+        "lib/net45/WebDriver.Support.dll",
+        "lib/net45/WebDriver.Support.xml",
+        "lib/netstandard2.0/WebDriver.Support.dll",
+        "lib/netstandard2.0/WebDriver.Support.xml",
+        "selenium.support.3.141.0.nupkg.sha512",
+        "selenium.support.nuspec"
       ]
     },
     "Selenium.WebDriver/3.141.0": {
@@ -4622,15 +4653,15 @@
         "system.xml.xmldocument.nuspec"
       ]
     },
-    "WebDriverManager/2.11.2": {
-      "sha512": "GUZdrDFE8g8gI7nYr/ki7iXFLfBvEJpu6cU9ELjQcpCL33iqOh5ByX7rWG6YcHw0YqLBcnZ7eeTjrVz6YfTNSw==",
+    "WebDriverManager/2.11.3": {
+      "sha512": "E8y0JkSsSK3IBewDxumnXXqZWvAeIm2xHq5V9dCA/9J6zZWgUIm+dx8+hOLEVCTuFsmikNsptpoJWSzLp/KzPQ==",
       "type": "package",
-      "path": "webdrivermanager/2.11.2",
+      "path": "webdrivermanager/2.11.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/WebDriverManager.dll",
-        "webdrivermanager.2.11.2.nupkg.sha512",
+        "webdrivermanager.2.11.3.nupkg.sha512",
         "webdrivermanager.nuspec"
       ]
     }
@@ -4640,9 +4671,10 @@
       "Microsoft.NET.Test.Sdk >= 16.10.0",
       "NUnit >= 3.13.2",
       "NUnit3TestAdapter >= 4.0.0",
+      "Selenium.Support >= 3.141.0",
       "Selenium.WebDriver >= 3.141.0",
       "Selenium.WebDriver.ChromeDriver >= 92.0.4515.4300",
-      "WebDriverManager >= 2.11.2",
+      "WebDriverManager >= 2.11.3",
       "coverlet.collector >= 3.1.0"
     ]
   },
@@ -4707,6 +4739,10 @@
             "target": "Package",
             "version": "[4.0.0, )"
           },
+          "Selenium.Support": {
+            "target": "Package",
+            "version": "[3.141.0, )"
+          },
           "Selenium.WebDriver": {
             "target": "Package",
             "version": "[3.141.0, )"
@@ -4717,7 +4753,7 @@
           },
           "WebDriverManager": {
             "target": "Package",
-            "version": "[2.11.2, )"
+            "version": "[2.11.3, )"
           },
           "coverlet.collector": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
