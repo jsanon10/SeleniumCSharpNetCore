@@ -18,7 +18,7 @@ jobs:
       with:
         dotnet-version: 5.0.x
     - name: install chrome 
-      run: wget https://dl.google.com/linux/direct/${CHROME_PACKAGE} && \ dpkg-deb -x ${CHROME_PACKAGE} / && \ apt-get install -f -y
+      run: wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
